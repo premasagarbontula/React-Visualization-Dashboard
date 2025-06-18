@@ -4,6 +4,8 @@ A modern and responsive admin dashboard built with React, featuring data visuali
 Click below to see Video demo of the Project
 https://github.com/user-attachments/assets/6171e9db-e07c-4fa3-9c0b-34c9ae72a80b
 
+![Image](https://github.com/user-attachments/assets/c78f98a5-3c89-4822-97dc-a928426d12ce)
+
 ## Description
 
 This dashboard application provides a comprehensive interface for data management and visualization. It features a secure login system, interactive charts, data cards, and a responsive layout that works across different device sizes.
