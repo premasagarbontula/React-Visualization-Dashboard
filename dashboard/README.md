@@ -39,7 +39,7 @@ This dashboard application provides a comprehensive interface for data managemen
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/react-dashboard.git
+git clone https://github.com/premasagarbontula/React-Visualization-Dashboard
 ```
 
 2. Navigate to the project directory
@@ -87,13 +87,17 @@ dashboard/
 ## Screenshots
 
 _Login interface with Google and Apple authentication options_
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/99983990-a2e9-4f79-9771-7398a23d5b00)
+![image](https://github.com/user-attachments/assets/a240ecba-0413-4f17-8d06-d1544af2db07)
 
-![Dashboard](screenshots/dashboard.png)
+
 _Main dashboard with charts and metrics_
+![image](https://github.com/user-attachments/assets/39ede539-eb3d-4f68-86cb-3b451c3aa234)
+![image](https://github.com/user-attachments/assets/34b6e840-56ba-4df2-a812-d67c46c6f869)
 
-![Mobile View](screenshots/mobile.png)
+
 _Responsive mobile interface_
+![image](https://github.com/user-attachments/assets/9a12858e-2c09-40c4-b98c-940f962abbf0)
 
 ## Key Features Breakdown
 
